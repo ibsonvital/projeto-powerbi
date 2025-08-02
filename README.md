@@ -1,6 +1,6 @@
 # 📊 Projeto Power BI - Análise de Vendas
 
-Este projeto foi desenvolvido para análise de dados fictícios de vendas, com foco na avaliação de desempenho mensal e comparação com metas estabelecidas.
+Dashboard desenvolvido para análise de desempenho de vendas ao longo do ano de 2023, utilizando recursos do Power BI para oferecer uma visão clara e estratégica dos resultados mensais.
 
 ## 🗂️ Base de Dados
 
