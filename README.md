@@ -28,8 +28,8 @@ Este projeto foi desenvolvido para análise de dados fictícios de vendas, com f
 Este dashboard apresenta a performance de vendas ao longo do ano de 2023. As principais métricas avaliadas foram: custos, impostos, total vendido, lucro líquido e percentual de lucro.
 
 A meta mensal definida foi de **R$ 150.000,00**. Os gráficos permitem uma análise clara do atingimento dessa meta mês a mês:
-- 📉 Barras vermelhas indicam meses abaixo da meta
-- 📈 Barras azuis indicam meses em que a meta foi alcançada
+- 📈 Barras vermelhas indicam meses abaixo da meta
+- 📉 Barras azuis indicam meses em que a meta foi alcançada
 
 Além disso:
 - No canto inferior esquerdo, há um comparativo **2022 x 2023**, evidenciando um crescimento na arrecadação.
