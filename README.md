@@ -4,7 +4,7 @@ Dashboard desenvolvido para análise de desempenho de vendas ao longo do ano de 
 
 ## 🗂️ Base de Dados
 
-- Arquivo: `vendas.xlsx`
+- Arquivo: `vendas.pbix`
 
 ## 📈 Métricas analisadas
 
